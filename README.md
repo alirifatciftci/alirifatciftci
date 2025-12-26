@@ -1,13 +1,13 @@
 # Ali Rıfat Çiftçi
-### Computer Engineering Student | Backend Developer
+### Computer Engineering Student | 
 
 ---
 
 ### 👨‍💻 Hakkımda
 Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Yazılım dünyasında özellikle **.NET** ekosistemi üzerinde uzmanlaşmaya çalışıyorum. Temiz kod prensiplerine sadık kalarak modern web uygulamaları geliştiriyorum.
 
-- 🌱 Şu an **Mikroservis Mimarileri** ve **Design Patterns** üzerine çalışıyorum.
-- 🎯 Hedefim yüksek performanslı ve sürdürülebilir backend çözümleri üretmek.
+- 🌱 Şu an **Mikroservis Mimarileri** üzerine çalışıyorum.
+- 🎯 Hedefim yüksek performanslı ve sürdürülebilir backend ve frontend çözümleri üretmek.
 
 ---
 
@@ -15,8 +15,8 @@ Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyi
 
 **Diller & Frameworkler**
 * **Backend:** C#, ASP.NET Core, MVC, Web API
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-* **Veritabanı:** MS SQL Server, Entity Framework Core
+* **Frontend:** React , HTML5, CSS3, JavaScript, Bootstrap
+* **Veritabanı:** MS SQL Server, Entity Framework Core , Supabase , Firebase 
 
 **Araçlar**
 * Git & GitHub, Visual Studio, VS Code
