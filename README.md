@@ -1,5 +1,5 @@
 # Ali Rıfat Çiftçi
-### Computer Engineering Student | 
+### Computer Engineering Student 
 
 ---
 
