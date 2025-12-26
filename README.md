@@ -23,11 +23,6 @@ Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyi
 
 ---
 
-### 📊 GitHub İstatistikleri
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirifatciftci&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=9f9f9f" alt="Ali Rıfat Stats" height="150">
-</p>
-
 ---
 
 ### 📫 İletişim
