@@ -1,36 +1,32 @@
-# Ali Rıfat Çiftçi
-### Computer Engineering Student 
+Ali Rıfat Çiftçi
+Computer Engineering Student | Frontend & Mobile Developer
+👨‍💻 Hakkımda
+Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Şu anda Codeva şirketinde aktif olarak görev alıyor, ağırlıklı olarak frontend süreçlerinde yer alarak React ve React Native ile modern projeler geliştiriyorum.
 
----
+.NET ekosisteminde sahip olduğum altyapıyı, estetik ve akıcı kullanıcı arayüzleriyle birleştirerek uçtan uca kaliteli ürünler ortaya çıkarmaya odaklanıyorum. Temiz kod prensiplerine sadık kalarak hem web hem de mobil platformlarda kullanıcı dostu uygulamalar inşa ediyorum.
 
-### 👨‍💻 Hakkımda
-Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Yazılım dünyasında özellikle **.NET** ekosistemi üzerinde uzmanlaşmaya çalışıyorum. Temiz kod prensiplerine sadık kalarak modern web uygulamaları geliştiriyorum.
+🌱 Şu an Codeva ekibiyle birlikte aktif olarak React ve React Native tabanlı projeler geliştiriyorum.
 
-- 🌱 Şu an **Mikroservis Mimarileri** üzerine çalışıyorum.
-- 🎯 Hedefim yüksek performanslı ve sürdürülebilir backend ve frontend çözümleri üretmek.
+🎯 Hedefim yüksek performanslı, estetik tasarıma sahip frontend/mobil çözümleri ve sürdürülebilir backend mimarileri üretmek.
 
----
+🛠️ Teknik Yetkinlikler
+Diller & Frameworkler
 
-### 🛠️ Teknik Yetkinlikler
+Frontend & Mobil: React, React Native, HTML5, CSS3, JavaScript, Bootstrap
 
-**Diller & Frameworkler**
-* **Backend:** C#, ASP.NET Core, MVC, Web API
-* **Frontend:** React , HTML5, CSS3, JavaScript, Bootstrap
-* **Veritabanı:** MS SQL Server, Entity Framework Core , Supabase , Firebase 
+Backend: C#, ASP.NET Core, MVC, Web API
 
-**Araçlar**
-* Git & GitHub, Visual Studio, VS Code
+Veritabanı: MS SQL Server, Entity Framework Core, Supabase, Firebase
 
----
+Araçlar
 
----
+Git & GitHub, Visual Studio, VS Code
 
-### 📫 İletişim
-* **LinkedIn:** [/in/alirifatciftci](https://linkedin.com/in/alirifatciftci)
-* **Web:** [alirifatciftci.com](https://www.alirifatciftci.com/)
-* **E-posta:** alirifatciftci@gmail.com
+📫 İletişim
+LinkedIn: /in/alirifatciftci
 
----
+E-posta: alirifatciftci@gmail.com
+
 <p align="center">
-  <sub>Modern ve sürdürülebilir yazılımlar inşa ediyorum.</sub>
+<sub>Modern, estetik ve sürdürülebilir yazılımlar inşa ediyorum.</sub>
 </p>
