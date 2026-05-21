@@ -1,5 +1,5 @@
 # Ali Rıfat Çiftçi
-### Computer Engineering Student | Frontend & Mobile Developer
+### Computer Engineering Student | Web Developer & Mobile Developer
 
 ---
 
