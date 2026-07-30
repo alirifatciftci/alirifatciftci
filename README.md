@@ -1,24 +1,29 @@
 # Ali Rıfat Çiftçi
-### Computer Engineering Student | Web & Mobile Developer
+### Computer Engineer | Full Stack Developer
 
 ---
 
 ### 👨‍💻 Hakkımda
-Tekirdağ Namık Kemal Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Şu anda **Codeva** şirketinde aktif olarak görev alıyor, ağırlıklı olarak frontend süreçlerinde yer alarak **React** ve **React Native** ile modern projeler geliştiriyorum. 
+Tekirdağ Namık Kemal Üniversitesi Bilgisayar Mühendisliği bölümü mezunuyum. Şu anda **Codeva Bilişim** bünyesinde **Full Stack Developer** olarak görev alıyor, mikroservis mimarileri üzerine modern, ölçeklenebilir ve yüksek performanslı projeler geliştiriyorum. 
 
-.NET ekosisteminde sahip olduğum altyapıyı, estetik ve akıcı kullanıcı arayüzleriyle birleştirerek uçtan uca kaliteli ürünler ortaya çıkarmaya odaklanıyorum. Temiz kod prensiplerine sadık kalarak hem web hem de mobil platformlarda kullanıcı dostu uygulamalar inşa ediyorum.
+Backend tarafında **C# .NET** ekosistemi ve **PostgreSQL** ile güçlü altyapılar kurarken, frontend süreçlerinde **React** ile estetik ve akıcı kullanıcı arayüzleri inşa ediyorum. Uygulamaların geliştirme ve dağıtım süreçlerinde **Docker** kullanarak izole ve güvenli ortamlar oluşturuyorum. Temiz kod prensiplerine sadık kalarak uçtan uca kaliteli, sürdürülebilir ürünler ortaya çıkarmaya odaklanıyorum.
 
-- 🌱 Şu an **Codeva** ekibiyle birlikte aktif olarak React ve React Native tabanlı projeler geliştiriyorum.
-- 🎯 Hedefim yüksek performanslı, estetik tasarıma sahip frontend/mobil çözümleri ve sürdürülebilir backend mimarileri üretmek.
+- 🌱 Şu an **Codeva** ekibiyle birlikte .NET tabanlı mikroservisler ve React projeleri geliştiriyorum.
+- 🎯 Hedefim, yüksek performanslı tam yığın (full-stack) çözümler ve sürdürülebilir, konteynerize edilmiş (containerized) modern mimariler üretmek.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler
 
+**Mimari & DevOps**
+* Mikroservis Mimarisi, Docker, RESTful API
+
 **Diller & Frameworkler**
+* **Backend:** C#, ASP.NET Core, .NET, Web API
 * **Frontend & Mobil:** React, React Native, HTML5, CSS3, JavaScript, Bootstrap
-* **Backend:** C#, ASP.NET Core, MVC, Web API
-* **Veritabanı:** MS SQL Server, Entity Framework Core, Supabase, Firebase 
+
+**Veritabanı**
+* PostgreSQL, MS SQL Server, Entity Framework Core, Supabase, Firebase 
 
 **Araçlar**
 * Git & GitHub, Visual Studio, VS Code
