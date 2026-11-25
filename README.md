@@ -13,7 +13,7 @@ Backend tarafında **C# .NET** ekosistemi ve **PostgreSQL** ile güçlü altyap�
 
 ---
 
-### 🛠️ Teknik Yetkinlikler
+###  Teknik Yetkinlikler
 
 **Mimari & DevOps**
 * Mikroservis Mimarisi, Docker, RESTful API
@@ -30,7 +30,7 @@ Backend tarafında **C# .NET** ekosistemi ve **PostgreSQL** ile güçlü altyap�
 
 ---
 
-### 📫 İletişim
+###  İletişim
 * **LinkedIn:** [/in/alirifatciftci](https://linkedin.com/in/alirifatciftci)
 * **E-posta:** alirifatciftci@gmail.com
 
